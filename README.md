@@ -2,7 +2,7 @@
 #### Tuomas Salo (tuomas.a.salo@gmail.com, 0407746771)
 Koneoppimisen osaaja: Tehtävät 1, 4, 5.
 ## Visualisoinnit ja Mallinnus
-Parhaiten työni jäljen näkee .html tiedostoista pääkansiossa:
+Parhaiten työni jäljen näkee .html tiedostoista pääkansiossa.
 
 Tehtävä 5 hahmotelma:
 Notebookeistani saa helposti muokattua suoritettavan ohjelman. Uuden tiedon haku, 
